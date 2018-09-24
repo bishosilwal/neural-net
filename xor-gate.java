@@ -1,3 +1,5 @@
+//my first xor gate nerual net try and its perfectly working with 0.001 error 
+
 package xor;
 
 import java.util.Random;
